@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patika Dev HTML Odev-1</title>
+</head>
+
+<body>
+    <header>
+
+        <h1>
+            Yiğit Emre Kodan
+        </h1>
+
+        <h3>Hakkımda</h3>
+    </header>
+    <main>
+        <p class="myself">
+            Merhaba ben Yİğit Emre. 21 yaşındayım. Kocaeli Üniversitesi Meslek Yüksekokulu'nda Bilgisayar Programcılığı
+            okuyorum.Fenerbahçe taraftarıyım. 1907 ÜNİFEB taraftar grubuna üyeyim. Top ile oynanan sporları yapmakatan
+            keyif alıyorum. Genel anlamda konsol ve bilgisayar oyunlarına çok düşkünümdür. Sosyallik açısından kendimi
+            geliştiremedim. Çekingen bir insanımdır. Yapı olarak utangaçlığımdan dolayı arkadaş edinmekte zorlandığım
+            çok oluyor. 2 erkek kardeşe sahibim.
+        </p>
+
+        <h2>Sevdiğim Film/Dizi/Animeler</h2>
+        <h5 class="hobbies">
+            One Piece
+        </h5>
+        <p class="One-Piece">
+            1997 yılında Eiihchiro Oda tarafından yazılmaya başlanan manga aktif olarak mangaka (yazar) tarafından devam
+            etmektedir. Manga 1999 yılında TOEI Animation tarafından animasyon haline getirilerek ONE PIECE animesinin
+            serüveni başlamıştır. Ana karakterimiz Monkey D. Luffy korsan kralı olmak isteyen bir korsandır ve
+            kendisinin bir tayfaya ihtiyacı vardır. Tayfasına birer birer insanlar ekleyerek ve diğer korsanları
+            hezimete uğratarak yenen Mugiwara Korsanları (Mugiwara --> Hasır Şapka Korsanları) adını duyurmayı başaran
+            bir korsan tayfası olmuştur. Animede dünyada yaşanan eziyetler acılar zorluklar anlatılmıştır.
+        </p>
+    </main>
+
+
+</body>
+
+</html>
